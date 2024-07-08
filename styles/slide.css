@@ -1,0 +1,9 @@
+img{
+     height: 300px;
+     border-radius: 5%;
+    background-color: bisque;
+    padding: color(srgb red green rgb(123, 123, 172));
+
+    padding: 10px;
+}
+
